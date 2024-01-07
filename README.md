@@ -10,6 +10,8 @@ In this project, we aim to build a web-based application that predicts the Succe
 >>>>>>> 9b9e828386bee358413265bf675df9be5d3a0948
 
 
+DEVELOPMENT PHASE
+
 Date 4/11/2023 - Update
 
 Created Modules -
@@ -24,3 +26,44 @@ Configuration -
 Created APIs -
     - Admin account added POST Api
     - Admin account fetch GET Api
+
+
+ --------------------------- Rebuild Whole Project ---------------------------
+
+Date 23/12/2023 - 
+    - Rebuild Whole Project. from Spring Boot Version 2.1.8 to 3.1.7 (Reason vulnerabilities with MYSQL dependancy 8.0.33)
+
+
+08-01-2024
+
+ - Created Backend Apis
+      - Updadte APIs - For Startup 
+      - Bugs/Code Fixes of APIs
+
+
+01-01-2024
+
+ - Created Backend Apis
+      - Delete APIs - For Admin 
+      - Update API = For Investor
+      - APIs unit testing
+      - Bugs/Code Fixes of APIs
+
+
+29-12-2023
+
+ - Created Backend Apis
+      - Evaluation
+      - StartUp
+      - APIs unit testing
+      - Bugs Fixes of APIs
+      
+
+23-12-2023
+
+ - Created Backend Apis
+      - Admin
+      - Investor
+      - InvestorMetadeta
+      - Entreprenuer
+      - EntreprenuerMe
